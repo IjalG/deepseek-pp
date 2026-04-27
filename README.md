@@ -36,7 +36,7 @@
 ### 从源码构建
 
 ```bash
-git clone https://github.com/user/deepseek-pp.git
+git clone https://github.com/zhu1090093659/deepseek-pp.git
 cd deepseek-pp
 npm install
 npm run build
